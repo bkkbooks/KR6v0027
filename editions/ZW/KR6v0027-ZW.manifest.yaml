@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0027/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0027/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經文外義
+  identifiers:
+    krp: KR6v0027
+    cbeta: ZW02n0020
+    cbeta_old_id: ZW02n0020
+    authorityid: CA0008394
+    json_key: ZW0020
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW02/ZW02n0020.xml
+    old_id: ZW02n0020
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0027_000-ZW.yaml, hash: 'sha256:186753302a635bae3055d77982d0e64903faa3efa0b373126e0ac50d36b023e7'}
+  - {seq: 1, filename: KR6v0027_001-ZW.yaml, hash: 'sha256:d20ba8f022d50d8cef484985fb282e96ef4abda74e5eef9d74ff48f9b4d95995'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0027_000-ZW.markers.yaml, hash: 'sha256:ffcf3e9995922e0476a669f303d97c4c2cfaadf898d0ce75291c8dd49cb9a3e9'}
+  - {seq: 1, role: markers, filename: assets/KR6v0027_001-ZW.markers.yaml, hash: 'sha256:689958c4b26641586ec45be45899640fce4b5165e4d74843beab3447c92361bf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0027_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0027_ZW_000-mulu-2
+    span:
+    - front
+    - 376
+    - 376
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0027_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 30532
+  label: 法華經文外義
+  type: juan
+  level: 1
+hash: sha256:7ccd85430b2612a45024fc8863164df5d1078969f69dd1f6b20ebf18805ce076
