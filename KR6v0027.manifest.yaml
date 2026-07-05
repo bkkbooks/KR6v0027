@@ -16,11 +16,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR6v0027_000.yaml, hash: 'sha256:8c204015f9b19811406dcbf49d513595b3ce082ad487e96a6f9b2e9116f788ac'}
-  - {seq: 1, filename: KR6v0027_001.yaml, hash: 'sha256:b587cb7826bb254f4e5eb40f6e0a0f2123ecaa1cbbf3703bad7cfc4c23f7e268'}
+  - {seq: 0, filename: KR6v0027_000.yaml, hash: 'sha256:186753302a635bae3055d77982d0e64903faa3efa0b373126e0ac50d36b023e7'}
+  - {seq: 1, filename: KR6v0027_001.yaml, hash: 'sha256:d20ba8f022d50d8cef484985fb282e96ef4abda74e5eef9d74ff48f9b4d95995'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0027_000.markers.yaml, hash: 'sha256:9f17aa83885e91877a78c4ef8945e4c8025e57b7c40c76e91a144fbc60940079'}
-  - {seq: 1, role: markers, filename: assets/KR6v0027_001.markers.yaml, hash: 'sha256:02194646f50d7093e43db867c2a6ce8971fb454b020d3c6d3c14aa0a2ccaa285'}
+  - {seq: 0, role: markers, filename: assets/KR6v0027_000.markers.yaml, hash: 'sha256:300796eae2e420f08d3f984a6e915e7696e0d15bfe4f75f27bedae3eb161f08e'}
+  - {seq: 1, role: markers, filename: assets/KR6v0027_001.markers.yaml, hash: 'sha256:5fc523f1fd1b598caf51266956840101b0d408a8d7b28d2fb80f9d98fc364a5e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -52,9 +52,6 @@ table_of_contents:
   label: 法華經文外義
   type: juan
   level: 1
-hash: sha256:71eacbed287b7e2de6f491986fefe7b6d06729964bdb3a596ddff63e12f0322d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:31ec608419f5dbe28471c308f85112ff755f2664bc927294a9711b49d074d7eb
 editions:
 - short: ZW
